@@ -1,6 +1,6 @@
 # 一个简易的学习RN的demo
 
-# USAGE
+## USAGE
 
 * __创建一个本地库__ 
 > `git clone git@github.com:dongqizhen/react-native-oneApp-test.git`
